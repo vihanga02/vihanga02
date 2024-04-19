@@ -8,6 +8,7 @@
         <li>🌱 I’m currently learning **Django,SQL.**</li>
         <li>💬 Ask me about **anything.**</li>
         <li>📫 How to reach me **vihangamuthumala@gmail.com**</li>
+        <li>👨‍🎓 Engineering undergraduate at University of Moratuwa, Department of Computer Science and Engineering. 
         <li>⚡ Fun fact **I think I am friendly and funny.**</li>
     </ul>
     <h3 align="left">Connect with me:</h3>
@@ -31,8 +32,8 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
     </p>
-    <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vihanga02&theme=github-dark"></p>
-    <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vihanga02&hide_border=true&theme=github-dark"></p>
+    <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vihanga02&theme=gotham"></p>
+    <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vihanga02&hide_border=true&theme=gotham"></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vihanga02&theme=whatsapp-dark" alt="vihanga02" /></p>
 </body>
 </html>
