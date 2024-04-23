@@ -32,8 +32,10 @@
         <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
     </p>
-    <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vihanga02&theme=gotham"></p>
-    <p> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vihanga02&hide_border=true&theme=gotham"></p>
+    <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vihanga02&theme=gotham"></p>
+    <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihanga02&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact"</p>
+    <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vihanga02&hide_border=true&theme=gotham"></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vihanga02&theme=whatsapp-dark" alt="vihanga02" /></p>
+
 </body>
 </html>
