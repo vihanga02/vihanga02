@@ -5,11 +5,11 @@
     <h1 align="center">Hi 👋, I'm Vihanga Muthumala</h1>
     <h3 align="center">A passionate learner and developer from Sri Lanka</h3>
     <ul>
-        <li>🌱 I’m currently learning **Django,SQL.**</li>
-        <li>💬 Ask me about **anything.**</li>
-        <li>📫 How to reach me **vihangamuthumala@gmail.com**</li>
-        <li>👨‍🎓 Engineering undergraduate at University of Moratuwa, Department of Computer Science and Engineering. 
-        <li>⚡ Fun fact **I think I am friendly and funny.**</li>
+        <li>🌱 I’m currently learning <strong>Django, SQL</strong>.</li>
+        <li>💬 Ask me about <strong>anything</strong>.</li>
+        <li>📫 How to reach me <strong>vihangamuthumala@gmail.com</strong></li>
+        <li>👨‍🎓 Engineering undergraduate at University of Moratuwa, Department of Computer Science and Engineering.</li>
+        <li>⚡ Fun fact <strong>I think I am friendly and funny</strong>.</li>    
     </ul>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
