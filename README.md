@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-    <img align="center" alt="Coding" width="1000" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+    <img align="center" alt="Coding" width="1000" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg">
     <h1 align="center">Hi 👋, I'm Vihanga Muthumala</h1>
     <h3 align="center">A passionate learner and developer from Sri Lanka</h3>
     <ul>
