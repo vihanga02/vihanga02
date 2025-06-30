@@ -8,7 +8,7 @@
         <li>🌱 I’m currently learning <strong>NodeJS</strong>.</li>
         <li>💬 Ask me about <strong>anything</strong>.</li>
         <li>📫 How to reach me <strong>vihangamuthumala@gmail.com</strong></li>
-        <li>👀 Here my portfolio <strog>https://vihanga02.github.io/my_portfolio</strog></li>
+        <li>👀 Here my portfolio <strog>https://vihangamuthumala.vercel.app/</strog></li>
         <li>👨‍🎓 Engineering undergraduate at University of Moratuwa, Department of Computer Science and Engineering.</li>
         <li>⚡ Fun fact <strong>I think I am friendly and funny</strong>.</li>    
     </ul>
